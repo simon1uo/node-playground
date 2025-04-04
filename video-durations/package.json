@@ -1,0 +1,17 @@
+{
+  "name": "video-durations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}

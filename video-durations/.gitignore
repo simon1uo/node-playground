@@ -1,0 +1,4 @@
+node_modules
+videos/*
+pnpm-lock.yaml
+package-lock.json
