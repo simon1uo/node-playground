@@ -1,0 +1,17 @@
+{
+  "name": "rabbit-turtle-races",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "race": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "chalk-animation": "^2.0.3"
+  }
+}
